@@ -1,10 +1,7 @@
 package com.keyin.rest.team;
 
 import com.keyin.rest.division.Division;
-import com.keyin.rest.division.DivisionRepository;
 import com.keyin.rest.division.DivisionService;
-import com.keyin.rest.player.Player;
-import com.keyin.rest.player.PlayerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
